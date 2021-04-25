@@ -1,0 +1,13 @@
+twitter:
+  auth:
+    api-key: 2qILM0ElSGZVqmIomZVfH233M
+    api-key-secret: 5LdB3xXz8Njkdm4G7LimXY0chtjwhhRZZsjRgbKlre4JayKPoS
+    access-token: 932597756815990784-Z2Kk5ErRP0vTtnMAORuP2iD4FWGvCcE
+    access-token-secret: dtRWme0zIqVgQa7Kel3syBck2Lj6qrhkzEEYwSVMhP8ym
+bot:
+  tweetfreq:
+    thirty-minutes: 1800000
+    five-minutes: 300000
+    hour: 3600000
+    four-hours: 14400000
+    day: 86400000
