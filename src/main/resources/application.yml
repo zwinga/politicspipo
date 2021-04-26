@@ -1,9 +1,9 @@
 twitter:
   auth:
-    api-key: ${TWITTER_CONSUMER_KEY}
-    api-key-secret: ${TWITTER_CONSUMER_SECRET}
-    access-token: ${TWITTER_ACCESS_TOKEN}
-    access-token-secret: ${TWITTER_ACCESS_TOKEN_SECRET}
+    api-key: 2qILM0ElSGZVqmIomZVfH233M
+    api-key-secret: 5LdB3xXz8Njkdm4G7LimXY0chtjwhhRZZsjRgbKlre4JayKPoS
+    access-token: 932597756815990784-Z2Kk5ErRP0vTtnMAORuP2iD4FWGvCcE
+    access-token-secret: dtRWme0zIqVgQa7Kel3syBck2Lj6qrhkzEEYwSVMhP8ym
 bot:
   tweetfreq:
     thirty-minutes: 1800000
