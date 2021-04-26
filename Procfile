@@ -1,0 +1,9 @@
+web: java -Dserver.port=$PORT $JAVA_OPTS -Dtwitter4j.debug=false
+-Dtwitter4j.oauth.consumerKey=2qILM0ElSGZVqmIomZVfH233M
+-Dtwitter4j.oauth.consumerSecret=5LdB3xXz8Njkdm4G7LimXY0chtjwhhRZZsjRgbKlre4JayKPoS
+-Dtwitter4j.oauth.accessToken=932597756815990784-Z2Kk5ErRP0vTtnMAORuP2iD4FWGvCcE
+-Dtwitter4j.oauth.accessTokenSecret=dtRWme0zIqVgQa7Kel3syBck2Lj6qrhkzEEYwSVMhP8ym
+-Doauth.consumerKey=2qILM0ElSGZVqmIomZVfH233M
+-Doauth.consumerSecret=5LdB3xXz8Njkdm4G7LimXY0chtjwhhRZZsjRgbKlre4JayKPoS
+-Doauth.accessToken=932597756815990784-Z2Kk5ErRP0vTtnMAORuP2iD4FWGvCcE
+-Doauth.accessTokenSecret=dtRWme0zIqVgQa7Kel3syBck2Lj6qrhkzEEYwSVMhP8ym  -jar target/bot-0.0.1-SNAPSHOT.jar
